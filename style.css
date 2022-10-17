@@ -80,7 +80,7 @@ nav {
 
   }
   .more-articles img {
-     display: block;
+     display: inline-block;
      padding: 5px 5px 5px 5px;
   }
 
@@ -89,4 +89,9 @@ nav {
     cursor: pointer;
     text-decoration: none;
     color: #777;
+}
+
+.more-articles  p {
+    display: inline-block;
+  
 }
